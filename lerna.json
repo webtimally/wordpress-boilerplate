@@ -1,0 +1,4 @@
+{
+  "packages": ["wp-content/plugins/webtimally", "wp-content/themes/webtimally"],
+  "version": "0.0.0"
+}
