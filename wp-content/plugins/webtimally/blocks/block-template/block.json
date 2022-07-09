@@ -1,0 +1,10 @@
+{
+  "apiVersion": 2,
+  "name": "webtimally/block-template",
+  "version": "1.0.0",
+  "title": "Block Template",
+  "icon": "editor-table",
+  "category": "webtimally",
+  "attributes": {},
+  "editorScript": "file:../../build/news.js"
+}

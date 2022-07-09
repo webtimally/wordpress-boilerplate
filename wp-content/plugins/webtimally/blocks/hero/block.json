@@ -1,0 +1,29 @@
+{
+  "apiVersion": 2,
+  "name": "webtimally/hero",
+  "version": "1.0.0",
+  "title": "Hero",
+  "icon": "cover-image",
+  "category": "webtimally",
+  "attributes": {
+    "mediaID": {
+      "type": "number"
+    },
+    "mediaURL": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    }
+  },
+  "editorScript": "file:../../build/hero.js"
+}
